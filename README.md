@@ -1,1 +1,2 @@
-# eventsapp2
+# eventsappstart
+This is a simple events app
